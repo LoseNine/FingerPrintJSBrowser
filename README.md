@@ -106,12 +106,3 @@ CLIP_DEPTH_MODE_EXT:true
 请查看课程文档：
 
 👉 **[https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp](https://www.yuque.com/u21565569/ihuyk3/xgc6hqd94fb69xxp)**
-
-如需我继续为你：
-
-* 制作 README 的图片版本
-* 生成视频教授文案
-* 扩展更高级的指纹脚本模板
-* 补充指纹字段说明
-
-随时告诉我即可。
