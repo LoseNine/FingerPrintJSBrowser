@@ -1,7 +1,4 @@
 # Chromium 141 指纹浏览器阶段成果展示
-
-以下为可直接复制使用的 **原始 Markdown 文本**，用于介绍你针对 **FingerprintJS / Pro 全通过** 的定制版 Chromium 141 指纹浏览器，包括下载方式、启动方式、指纹脚本示例与课程链接。
-
 ---
 
 # 🚀 Chromium 141 指纹浏览器（专为 FingerprintJS / Pro 定制）
