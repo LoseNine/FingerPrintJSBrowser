@@ -39,9 +39,11 @@
 在浏览器目录运行：
 
 ```bash
-chrome.exe --ruyi="{\"ruyiFile\":\"C:\chromiun141\fp.txt\"}" \
+chrome.exe 
   --enable-webgl --ignore-gpu-blocklist --enable-unsafe-webgl --no-sandbox \
-  https://fingerprintjs.github.io/fingerprintjs/
+    --ruyi="{\"ruyiFile\":\"C:\\chromiun141\\fp.txt\",\"httpuser\":\"xxx-res_BR-Minas+Gerais\",\"httppwd\":\"xxxxx\"}"   \
+	--proxy-server="http://xxx.com:1288"  \
+	https://browserleaks.com/ip
 ```
 
 说明：
@@ -49,7 +51,7 @@ chrome.exe --ruyi="{\"ruyiFile\":\"C:\chromiun141\fp.txt\"}" \
 * `--ruyi`：加载完整指纹配置文件
 * 配置文件可完整控制 WebGL / Canvas / UA / Audio / Fonts / Screen / Hardware
 * 支持多指纹池切换、多实例运行、自动化脚本调用
-
+* 支持HTTP密码代理
 ---
 
 # 📝 指纹脚本示例（fp.txt）
