@@ -71,6 +71,7 @@ screenHeight:906
 screenWidth:1707
 avaiscreenHeight:866
 avaiscreenWidth:1707
+screenY:10
 colorDepth:24
 canvas:39
 langugages:zh-CN,en-US
