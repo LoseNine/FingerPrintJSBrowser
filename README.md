@@ -26,9 +26,7 @@
 # 📦 下载地址
 
 浏览器已打包为 `chrome.7z`：
-
-* **网盘链接**：[https://pan.baidu.com/s/1Qqt3dAEm3F1I_Ntm0XpnWQ?pwd=vv9e](https://pan.baidu.com/s/1Qqt3dAEm3F1I_Ntm0XpnWQ?pwd=vv9e)
-* **提取码**：`vv9e`
+定制版内核 (chrome.7z)**：[点击下载](https://pan.baidu.com/s/12AAALtShUggMx5XIWCc-IQ)  提取码: sx84 
 
 解压后可直接使用。
 
